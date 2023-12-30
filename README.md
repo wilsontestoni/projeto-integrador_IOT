@@ -36,7 +36,7 @@ Fornecer alimentos seguros e saudáveis de forma regular para cachorros em situa
   
 <b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre o projeto.
 
-<b>src</b>: Pasta que contém o código fonte e a imagem para um esboço do projeto no Wokwi.
+<b>src</b>: Pasta que contém o código fonte e as imagens para um esboço do projeto no Wokwi.
 
 ## 🎓 Referências
 
