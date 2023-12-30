@@ -10,8 +10,6 @@
 
 ## Professores Orientadores: Adriano F. Valente e Victor Bruno.
 
-## Descrição
-
 ### Objetivo
 Fornecer alimentos seguros e saudáveis de forma regular para cachorros em situação de rua, priorizando o bem-estar dos animais. Utilizamos a câmera integrada do ESP32-CAM para identificar os cães e enviar fotos para ONGs, instituições e petshops parceiros próximos. Isso permite uma avaliação prévia do estado dos cachorros, facilitando seu resgate e tratamento.
 
@@ -21,6 +19,11 @@ Fornecer alimentos seguros e saudáveis de forma regular para cachorros em situa
 * Captura uma foto do animal e a envia para a nuvem (Google Drive) através do ESP32-CAM.<br>
 * Libera uma porção de ração por meio de um Motor de Passo, componente do alimentador.<br>
 <br>
+
+## Imagens
+
+![image](https://github.com/wilsontestoni/projeto-integrador_IOT/assets/126810960/3b4926ab-983a-450b-9910-2b0c8bd013c5)
+
 
 ## 🛠 Estrutura das pastas
 
