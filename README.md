@@ -12,6 +12,7 @@
 
 ### Objetivo
 Fornecer alimentos seguros e saudáveis de forma regular para cachorros em situação de rua, priorizando o bem-estar dos animais. Utilizamos a câmera integrada do ESP32-CAM para identificar os cães e enviar fotos para ONGs, instituições e petshops parceiros próximos. Isso permite uma avaliação prévia do estado dos cachorros, facilitando seu resgate e tratamento.
+<br/>
 
 ### Como funciona?
 
