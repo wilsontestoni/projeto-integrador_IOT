@@ -11,7 +11,7 @@
 ## Professores Orientadores: Adriano F. Valente e Victor Bruno.
 
 ### Objetivo
-Fornecer alimentos seguros e saudáveis de forma regular para cachorros em situação de rua, priorizando o bem-estar dos animais. Utilizamos a câmera integrada do ESP32-CAM para identificar os cães e enviar fotos para ONGs, instituições e petshops parceiros próximos. Isso permite uma avaliação prévia do estado dos cachorros, facilitando seu resgate e tratamento.
+Fornecer alimentos seguros e saudáveis de forma regular para cães em situação de rua, priorizando o bem-estar desses animais. Utilizamos a câmera integrada do ESP32-CAM para capturar imagens dos cães, as quais são enviadas para ONGs, instituições e pet shops parceiros próximos. Essas fotos possibilitam a identificação dos cães, permitindo a avaliação de seu estado físico. Além disso, esse processo auxilia na distinção entre cães que podem ter fugido de seus lares e os que são, de fato, animais de rua, contribuindo para a eficácia do resgate e tratamento.
 <br/>
 
 ### Como funciona?
@@ -33,6 +33,7 @@ Fornecer alimentos seguros e saudáveis de forma regular para cachorros em situa
   &emsp; &emsp; |-->Base64.h<br>
   &emsp;  |-->Wokwi<br>
   &emsp; &emsp; |-->Esquematica_do_trabalho_WOkwI.png<br>
+  &emsp; &emsp; |-->estrutura.png<br>
   
 <b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre o projeto.
 
