@@ -22,8 +22,8 @@ Fornecer alimentos seguros e saudáveis de forma regular para cachorros em situa
 
 ## Esquemática
 <div>
-  <img style="width: 45%;height: 450px;" src="https://github.com/wilsontestoni/projeto-integrador_IOT/assets/126810960/77d62e0c-3bf7-40c5-92a0-140979ec1540">
-  <img style="width: 55%;height: 450px;" src="https://github.com/wilsontestoni/projeto-integrador_IOT/assets/126810960/d8f80d70-5253-4dd7-ad05-22938c74eb43">
+  <img style="height: 450px;" src="https://github.com/wilsontestoni/projeto-integrador_IOT/assets/126810960/d8f80d70-5253-4dd7-ad05-22938c74eb43">
+  <img style="width: 65%;height: 450px;" src="https://github.com/wilsontestoni/projeto-integrador_IOT/assets/126810960/77d62e0c-3bf7-40c5-92a0-140979ec1540">
 ">
 </div>
 
