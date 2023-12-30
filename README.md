@@ -20,9 +20,9 @@ Fornecer alimentos seguros e saudáveis de forma regular para cachorros em situa
 * Libera uma porção de ração por meio de um Motor de Passo, componente do alimentador.<br>
 <br>
 
-## Imagens
+## Esquemática
+<img src="![image](https://github.com/wilsontestoni/projeto-integrador_IOT/assets/126810960/77d62e0c-3bf7-40c5-92a0-140979ec1540)">
 
-![image](https://github.com/wilsontestoni/projeto-integrador_IOT/assets/126810960/3b4926ab-983a-450b-9910-2b0c8bd013c5)
 
 
 ## 🛠 Estrutura das pastas
